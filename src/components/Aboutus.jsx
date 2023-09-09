@@ -12,7 +12,7 @@ export default function Aboutus() {
         </div>
       <div id = "Cards-stack">
         <Card style={{ width: '24rem' }}>
-          <Card.Img variant="top" src="src\assets\quiz.svg" />
+          <Card.Img variant="top" src="../src/assets/quiz.svg" />
           <Card.Body>
             <Card.Title>Interactive Quizzes</Card.Title>
             <Card.Text>
@@ -22,7 +22,7 @@ export default function Aboutus() {
           </Card.Body>
        </Card>
        <Card style={{ width: '24rem' }}>
-          <Card.Img variant="top" src="src\assets\ngo.jpeg" />
+          <Card.Img variant="top" src="../src/assets/ngo.jpeg" />
           <Card.Body>
             <Card.Title>Collaboration with Non Goverment Organizations.</Card.Title>
             <Card.Text>
@@ -32,7 +32,7 @@ export default function Aboutus() {
           </Card.Body>
         </Card>
         <Card style={{ width: '24rem' }}>
-          <Card.Img variant="top" src="src\assets\modules.jpg" />
+          <Card.Img variant="top" src="../src/assets/modules.jpg" />
           <Card.Body>
             <Card.Title>Informative Educational Modules and Resources</Card.Title>
             <Card.Text>
@@ -42,7 +42,7 @@ export default function Aboutus() {
           </Card.Body>
         </Card>
         <Card style={{ width: '24rem' }}>
-          <Card.Img variant="top" src="src\assets\reward.jpg" />
+          <Card.Img variant="top" src="../src/assets/reward.jpg" />
           <Card.Body>
             <Card.Title>Society of the month Competitions.</Card.Title>
             <Card.Text>
@@ -52,7 +52,7 @@ export default function Aboutus() {
           </Card.Body>
         </Card>
         <Card style={{ width: '24rem' }}>
-          <Card.Img variant="top" src="src\assets\blog.jpg" />
+          <Card.Img variant="top" src="../src/assets/blog.jpg" />
           <Card.Body>
             <Card.Title>Community Blogs</Card.Title>
             <Card.Text>
@@ -62,7 +62,7 @@ export default function Aboutus() {
           </Card.Body>
         </Card>
         <Card style={{ width: '24rem' }}>
-          <Card.Img variant="top" src="src\assets\artist_ecommerce.jpg" />
+          <Card.Img variant="top" src="../src/assets/artist_ecommerce.jpg" />
           <Card.Body>
             <Card.Title>Artists Section</Card.Title>
             <Card.Text>
